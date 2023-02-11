@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o @obaraujo
-- 👀 Sou co-funder da Stagon
-- 🌱 Estou aprendendo ReactJS
+- 👀 Sou CEO e fundador do barapi.com.br
+- 🌱 Programador Full Stack
 
 <!---
 obaraujo/obaraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
