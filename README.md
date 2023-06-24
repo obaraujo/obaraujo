@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/obaraujo/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Olá 👋, eu sou Vinícius Araújo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaraujo&color=orange" alt="Profile views" /> </p>
 
@@ -30,13 +29,13 @@
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-05122A?style=flat&logo=woocommerce)&nbsp;
 
 <br><br>
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=obaraujo&show_icons=true&theme=vision-friendly-dark" alt="obaraujo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaraujo&layout=compact&theme=vision-friendly-dark" alt="obaraujo's most languages"/>
-</p>
+</p>-->
 
 <br><br>
 
@@ -46,9 +45,10 @@
 <a href="https://t.me/obaraujo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-obaraujo-05122A?style=flat&logo=telegram" alt="codepen"/>
 </a>
+  <!--
 <a href="https://linkedin.com/in/obaraujo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-obaraujo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+</a>-->
 <a href="https://instagram.com/obaraujo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-obaraujo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
