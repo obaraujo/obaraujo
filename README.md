@@ -1,15 +1,15 @@
 <h1 align="left">Olá 👋, eu sou Vinícius Araújo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaraujo&color=orange" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor de software para a web! 
+- 🔥 Desenvolvedor de software para a Web!
 
-- 🔭 CEO e co-fundador do [Barapi](https://barapi.com.br)
+- 🔭 CEO, co-fundador e programador do [Barapi](https://barapi.com.br)
 
 - 👨‍💻 Trabalho com **TypeScript, SQL, ReactJS, NextJS e muito mais!**
 
 - 👨 Mais sobre mim: [obaraujo.github.io](https://obaraujo.github.io)
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -28,16 +28,14 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-05122A?style=flat&logo=woocommerce)&nbsp;
 
-<br><br>
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=obaraujo&show_icons=true&theme=vision-friendly-dark" alt="obaraujo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaraujo&layout=compact&theme=vision-friendly-dark" alt="obaraujo's most languages"/>
-</p>-->
-
-<br><br>
+</p>
+-->
 
 ## Contato
 
@@ -48,7 +46,8 @@
   <!--
 <a href="https://linkedin.com/in/obaraujo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-obaraujo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>-->
+</a>
+-->
 <a href="https://instagram.com/obaraujo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-obaraujo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
